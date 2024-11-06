@@ -1,12 +1,18 @@
-- 👋 Hi, I’m @emon22830
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+MD EMON
+Software Engineering Student at Universiti Teknologi Malaysia (UTM)
+Hi! I'm MD EMON, a passionate software engineering student with experience in:
 
-<!---
-emon22830/emon22830 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Application development (Flutter, Dart)
+Frontend development (HTML, CSS, JavaScript)
+I love solving problems, building innovative startups, and coding applications that improve lives.
+
+👨‍💻 Current Focus:
+Learning C++ with Data Structures & Algorithms.
+Exploring System Design and Operating Systems.
+🌱 Interests:
+Startup development.
+Cross-platform application development (Flutter).
+Solving real-world problems using tech.
+📫 Reach Me:
+LinkedIn
+Email
